@@ -3,4 +3,4 @@
 # Flowchart
     ! [Flowchart](https://github.com/nithin210/M1_projectgoal_UTI/blob/77a188ad90e56d455e225066d203f9b9a72f10db/1_Requirements/Flowchart.png)
 # Swot Analysis
-    ! [SWOT Analysis]()
+    ! [SWOT Analysis](https://github.com/nithin210/M1_projectgoal_UTI/blob/f209192470bf93f48a42a004be75034bf206591e/1_Requirements/SWOT%20Analysis.jpg)
