@@ -1,1 +1,1 @@
-# M1_projectgoal_UTI
+# M1_Sorting of techniques_UTI
