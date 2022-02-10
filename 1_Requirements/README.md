@@ -5,28 +5,27 @@ The project titled Integrated Library System is Library Management software for 
 
 This project “Integrated Library System” gives us the complete information about the library. We can enter the record of new books and retrieve the details of books available in the library. We can issue the books to the students and maintain their records and can also check how many books are issued and stock available in the library. In this project we can maintain the late fine of students who returns the issued books after the due date.
 # OBJECTIVES:
-a) To build a system that can receive input and generate automatically output in easy way and short time.
+1) To build a system that can receive input and generate automatically output in easy way and short time.
 
-b) To build a monitoring system that is able to monitor and manage all library operations efficiently.
+2) To build a monitoring system that is able to monitor and manage all library operations efficiently.
 
-c) Give an opportunity to librarians to reduce mistakes that always happen during manual method.
+3) Give an opportunity to librarians to reduce mistakes that always happen during manual method.
 
-d) To store properly the library items in order to maintain their security.
+4) To store properly the library items in order to maintain their security.
 
-e) To enter and preserve details of the various issues and keep a track on their returns.
-
+5) To enter and preserve details of the various issues and keep a track on their returns.
 # BENEFITS:
-a) Record Maintenance.
+1) Record Maintenance.
 
-b) Web-Based Solution.
+2) Web-Based Solution.
 
-c) Saves Time and Cost.
+3) Saves Time and Cost.
 
-d) Secure and Reliable.
+4) Secure and Reliable.
 
-e) Increases Efficiency.
+5) Increases Efficiency.
 
-f) Simple and Easy to Use.
+6) Simple and Easy to Use.
 # 4W'S and 1H:
 ## Who :
 This Integrated Library System is an application is used by all the students, and staff who are having id's.
@@ -44,25 +43,25 @@ The Integrated Library System is nowadays essential for schools, colleges, priva
 This project is implemented to do the book issuing, retunrn, or renewal purpose by entering the student or faculty id as input.
 # Swot Analysis:
 ## Strengths:
-a) Simple & Easy to Use.
+1) Simple & Easy to Use.
 
-b) Increased Library Engagement.
+2) Increased Library Engagement.
 
-c) Efficient Cloud Data Management.
+3) Efficient Cloud Data Management.
 
-d) Highly Secure, Scalable & Reliable.
+4) Highly Secure, Scalable & Reliable.
 
-e) Mobile Access.
+5) Mobile Access.
 
 ## Weakness:
-a) The data stored is prone to cyber hacks.
+1) The data stored is prone to cyber hacks.
 
-b) Costly and Expensive.
+2) Costly and Expensive.
 
-c) Complicated to operate.
+3) Complicated to operate.
 
-d) Online Systems require high-speed internet connectivity.
+4) Online Systems require high-speed internet connectivity.
 
-e) Risk of computer virus.
+5) Risk of computer virus.
 # Threats
 Libraries now send and retrieve data from databases to help better manage inventory and the like, but some libraries don’t have the right data encryption practices in place. This can often lead to lost data and sometimes, the data easily obtainable by criminals.
