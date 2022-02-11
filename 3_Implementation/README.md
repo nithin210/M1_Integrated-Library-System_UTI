@@ -80,7 +80,7 @@ int main()
     {
         printf("Successful\n");
     }
-    else if(success == fail)
+    else if(success==fail)
     {
         printf("Unsuccessful\n");
     }
