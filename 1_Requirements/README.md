@@ -42,26 +42,4 @@ The Integrated Library System is nowadays essential for schools, colleges, priva
 ## How:
 This project is implemented to do the book issuing, retunrn, or renewal purpose by entering the student or faculty id as input.
 # Swot Analysis:
-## Strengths:
-1) Simple & Easy to Use.
-
-2) Increased Library Engagement.
-
-3) Efficient Cloud Data Management.
-
-4) Highly Secure, Scalable & Reliable.
-
-5) Mobile Access.
-
-## Weakness:
-1) The data stored is prone to cyber hacks.
-
-2) Costly and Expensive.
-
-3) Complicated to operate.
-
-4) Online Systems require high-speed internet connectivity.
-
-5) Risk of computer virus.
-# Threats
-Libraries now send and retrieve data from databases to help better manage inventory and the like, but some libraries don’t have the right data encryption practices in place. This can often lead to lost data and sometimes, the data easily obtainable by criminals.
+! []
