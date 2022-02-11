@@ -42,4 +42,4 @@ The Integrated Library System is nowadays essential for schools, colleges, priva
 ## How:
 This project is implemented to do the book issuing, retunrn, or renewal purpose by entering the student or faculty id as input.
 # Swot Analysis:
-! [SWOT ANALYSIS](https://github.com/nithin210/M1_Integrated-Library-System_UTI/blob/e2f9ee2ee4cc2e0ddcb941bb95beea76d2260445/1_Requirements/SWOT%20ANALYSIS.png)
+![SWOT ANALYSIS](https://github.com/nithin210/M1_Integrated-Library-System_UTI/blob/e2f9ee2ee4cc2e0ddcb941bb95beea76d2260445/1_Requirements/SWOT%20ANALYSIS.png)
