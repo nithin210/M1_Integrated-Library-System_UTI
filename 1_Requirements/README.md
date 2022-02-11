@@ -42,4 +42,4 @@ The Integrated Library System is nowadays essential for schools, colleges, priva
 ## How:
 This project is implemented to do the book issuing, retunrn, or renewal purpose by entering the student or faculty id as input.
 # Swot Analysis:
-! []
+! [SWOT ANALYSIS]()
